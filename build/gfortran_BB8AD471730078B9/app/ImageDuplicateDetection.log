@@ -1,0 +1,5 @@
+Undefined symbols for architecture arm64:
+  "_main", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+collect2: error: ld returned 1 exit status

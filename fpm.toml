@@ -1,0 +1,8 @@
+name = "ImageDuplicateDetection"
+version = "0.1.0"
+
+[dependencies]
+openmp = "*"
+
+[[executable]]
+name = "ImageDuplicateDetection"
